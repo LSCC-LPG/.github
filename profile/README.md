@@ -1,6 +1,6 @@
 <div align="center">
   <img src="./engineering-banner.svg" width="100%" alt="Lattice Semiconductor — The Low Power Programmable Leader">
-  <h1>Thanks for stopping by</h1>
+  <h1>Welcome to Lattice Semiconductor</h1>
   <p><b>This is a Lattice Semiconductor workspace for internal engineering collaboration.</b><br>
   Its repositories are private, so there isn't anything to browse here.</p>
   <p><img src="./footer-divider.svg" width="100%" alt=""></p>
