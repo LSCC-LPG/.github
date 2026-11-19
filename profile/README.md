@@ -1,10 +1,10 @@
 <div align="center">
   <img src="./engineering-banner.svg" width="100%" alt="Lattice Semiconductor — The Low Power Programmable Leader">
-  <p><picture><source media="(prefers-color-scheme: light)" srcset="./titles/welcome-light.svg"><img src="./titles/welcome-dark.svg" width="882" alt="Welcome to Lattice Semiconductor"></picture></p>
+  <p><picture><source media="(prefers-color-scheme: light)" srcset="./titles/welcome-light.svg"><img src="./titles/welcome-dark.svg" width="580" alt="Welcome to Lattice Semiconductor"></picture></p>
   <p><b>This is a Lattice Semiconductor workspace for internal engineering collaboration.</b><br>
   Its repositories are private, so there isn't anything to browse here.</p>
   <p><img src="./footer-divider.svg" width="100%" alt=""></p>
-  <p><picture><source media="(prefers-color-scheme: light)" srcset="./titles/explore-light.svg"><img src="./titles/explore-dark.svg" width="540" alt="Explore our public resources"></picture></p>
+  <p><picture><source media="(prefers-color-scheme: light)" srcset="./titles/explore-light.svg"><img src="./titles/explore-dark.svg" width="375" alt="Explore our public resources"></picture></p>
   <p>Find public examples, applications and documentation in our public GitHub organization. Click the purple badge below to get there.</p>
   <p><a href="https://github.com/Lattice-Semiconductor-Applications"><img src="./badges/applications.svg" width="208" height="44" alt="Lattice Semiconductor Applications"></a></p>
   <br>
