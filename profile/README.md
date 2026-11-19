@@ -5,7 +5,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./welcome-title-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./welcome-title-light.svg">
-    <img src="./welcome-title-light.svg" width="760" alt="Welcome to Our Engineering Workspace — This GitHub organization is reserved exclusively for internal Lattice Semiconductor engineering collaboration.">
+    <img src="./welcome-title-light.svg" width="820" alt="Welcome to Lattice Semiconductor (LPG) GitHub Workspace — This GitHub organization is reserved exclusively for internal Lattice Semiconductor collaboration.">
   </picture>
   <br>
   <br>
