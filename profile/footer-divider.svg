@@ -1,11 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="2" viewBox="0 0 1040 2">
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="24" viewBox="0 0 1040 24" fill="none">
   <title>Footer divider</title>
   <defs>
-    <linearGradient id="fade" x1="0" x2="1">
-      <stop offset="0" stop-color="#708196" stop-opacity="0"/>
-      <stop offset="0.5" stop-color="#FFD24D"/>
-      <stop offset="1" stop-color="#708196" stop-opacity="0"/>
+    <linearGradient id="fadeLeft" x1="0" y1="0" x2="500" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#64748B" stop-opacity="0"/>
+      <stop offset="70%" stop-color="#64748B" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#FFD24D" stop-opacity="0.95"/>
+    </linearGradient>
+    <linearGradient id="fadeRight" x1="540" y1="0" x2="1040" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#FFD24D" stop-opacity="0.95"/>
+      <stop offset="30%" stop-color="#64748B" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#64748B" stop-opacity="0"/>
     </linearGradient>
   </defs>
-  <rect width="1040" height="2" fill="url(#fade)"/>
+  <line x1="0" y1="12" x2="504" y2="12" stroke="url(#fadeLeft)" stroke-width="1.6"/>
+  <line x1="536" y1="12" x2="1040" y2="12" stroke="url(#fadeRight)" stroke-width="1.6"/>
+  <circle cx="496" cy="12" r="2.2" fill="#FFD24D" fill-opacity="0.7"/>
+  <circle cx="544" cy="12" r="2.2" fill="#FFD24D" fill-opacity="0.7"/>
+  <path d="M520 5l7 7-7 7-7-7 7-7z" fill="#FFD24D" fill-opacity="0.18" stroke="#FFD24D" stroke-width="1.5"/>
+  <circle cx="520" cy="12" r="2" fill="#FFD24D"/>
 </svg>

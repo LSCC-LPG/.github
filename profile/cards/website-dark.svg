@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="412" height="134" viewBox="0 0 412 134" fill="none">
+  <title>latticesemi.com — Official Lattice Semiconductor Website</title>
+  <defs>
+    <linearGradient id="gdBar" x1="0" y1="0" x2="412" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#FFD24D"/>
+      <stop offset="100%" stop-color="#F59E0B" stop-opacity="0.25"/>
+    </linearGradient>
+    <clipPath id="c2"><rect width="412" height="134" rx="12"/></clipPath>
+  </defs>
+  <g clip-path="url(#c2)">
+    <rect width="412" height="134" fill="#111927"/>
+    <rect width="412" height="3.5" fill="url(#gdBar)"/>
+  </g>
+  <rect x="0.75" y="0.75" width="410.5" height="132.5" rx="11.25" stroke="#2A3950" stroke-width="1.2"/>
+
+  <!-- Silicon Chip Icon Tile -->
+  <rect x="20" y="22" width="46" height="46" rx="10" fill="#2A2210" stroke="#FFD24D" stroke-opacity="0.45" stroke-width="1"/>
+  <g transform="translate(31, 33)" stroke="#FFD24D" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="5" y="5" width="14" height="14" rx="2.5"/>
+    <rect x="9" y="9" width="6" height="6" rx="1"/>
+    <path d="M9 1v4M15 1v4M9 19v4M15 19v4M1 9h4M1 15h4M19 9h4M19 15h4"/>
+  </g>
+
+  <!-- Text Lockup -->
+  <text x="80" y="34" fill="#FFD24D" font-family="'SFMono-Regular', Consolas, monospace" font-size="9.5" font-weight="700" letter-spacing="0.8">OFFICIAL WEBSITE</text>
+  <text x="80" y="54" fill="#F8FAFC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700">latticesemi.com</text>
+  <text x="80" y="73" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12">Learn more about Lattice Semiconductor</text>
+
+  <!-- Crisp CTA Pill -->
+  <rect x="20" y="88" width="174" height="30" rx="7" fill="#1C293D" stroke="#FFD24D" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="34" y="107" fill="#FFD24D" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.2" font-weight="600">Visit latticesemi.com</text>
+  <path d="M174 99h6v6M180 99l-7 7" stroke="#FFD24D" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
